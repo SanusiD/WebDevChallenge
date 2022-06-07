@@ -26,10 +26,10 @@ To run this application follow these steps:
 -   run `php artisan migrate`
 -   run `php artisan serve`
 
-# Things I am proud of
+<!-- # Things I am proud of
 -   With the data that I got I was able to create a dashboard that showed all the graphs as well as allowing the line and bar graph to be filtered by the years currently in the database. Although I could've used Bootstrap, I opted to show my knowledge in CSS by creating a custom css file. Although due to the time, I couldnn't add media quieries to make it mobile responsive. The web app currently allows you to view reports, show the data in a table view ~ alloing for sorting, searching and filtering. It also allows for deleting records and also adding new singular records.  View the demo below:
 
-
+ -->
 
 # Demo
 ![Demo](demo.gif)
